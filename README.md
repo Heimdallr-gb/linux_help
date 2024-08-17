@@ -3,7 +3,7 @@
 ## linux_vpn
   - clash proxy
   ```
-    无gui：https://blog.llyweb.com/articles/2022/11/01/1667236018028.html
+    without gui：https://blog.llyweb.com/articles/2022/11/01/1667236018028.html
   ```
   - pigchacli
   ```
